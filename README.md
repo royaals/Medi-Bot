@@ -1,4 +1,4 @@
-Sure, here's a README file for your code:
+
 
 # Medical Chatbot
 
@@ -6,12 +6,21 @@ This is a Flask application that uses OpenAI's GPT-3.5-turbo model to power a me
 
 ## Setup
 
-1. Install the required Python packages: Flask, openai, python-dotenv.
-2. Set your OpenAI API key in an environment variable.
+1. Install the required Python packages: 
+```bash
+pip install flask openai python-dotenv
+```
+2. Set your OpenAI API key in an environment variable:
+```bash
+export OPENAI_API_KEY='your-api-key'
+```
 
 ## Usage
 
-1. Run the Flask application.
+1. Run the Flask application:
+```bash
+python app.py
+```
 2. Navigate to the root URL to access the chatbot interface.
 3. Send POST requests to the "/api" endpoint with a JSON payload containing a "message" key to interact with the chatbot.
 
@@ -21,12 +30,21 @@ This is a Streamlit application that uses a Multinomial Naive Bayes classifier f
 
 ## Setup
 
-1. Install the required Python packages: streamlit, numpy, pandas, scikit-learn.
-2. Set your Google Cloud project ID and location in environment variables.
+1. Install the required Python packages: 
+```bash
+pip install streamlit numpy pandas scikit-learn
+```
+2. Set your Google Cloud project ID and location in environment variables:
+```bash
+export PROJECT_ID='your-project-id'
+export LOCATION='your-location'
+```
 
 ## Usage
 
-1. Run the Streamlit application.
+1. Run the Streamlit application:
+```bash
+streamlit run app.py
+```
 2. Use the interface to interact with the Naive Bayes classifier.
 
-Please note that these are basic instructions and you might need to adjust them based on your specific use case and environment. Also, remember to handle your API keys securely and not expose them in your code or version control system.
