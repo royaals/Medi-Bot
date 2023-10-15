@@ -1,4 +1,15 @@
-## Medical Health  Advisor
+## Medical Health Advisor
+The services offered by our platform cater specifically to the needs of elderly individuals. We provide:
+
+1. *Disease Prediction*: Early detection of health issues through cutting-edge algorithms.
+
+2. *Doctor Appointment Booking*: Simplified and accessible healthcare appointments.
+
+3. *Mental Health Chatbots*: Emotional support to address loneliness and mental health concerns.
+
+4. *Medical Chatbots*: Reliable information and guidance for health-related queries.
+
+These services are designed to empower seniors, improve their quality of life, and enhance their overall healthcare and well-being.
 ## Demo
 
 Youtube link: https://www.youtube.com/watch?v=6p0oHkE6j1E
