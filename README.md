@@ -12,7 +12,7 @@ The services offered by our platform cater specifically to the needs of elderly 
 These services are designed to empower seniors, improve their quality of life, and enhance their overall healthcare and well-being.
 
 ## Hosting
-Our WebApp Hosted on Netlify-https://courageous-palmier-ec206d.netlify.app/
+Updated Hosted Link- https://royaals.github.io/med-advisor/
 
 ## Demo
 
