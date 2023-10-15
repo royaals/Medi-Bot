@@ -10,6 +10,10 @@ The services offered by our platform cater specifically to the needs of elderly 
 4. *Medical Chatbots*: Reliable information and guidance for health-related queries.
 
 These services are designed to empower seniors, improve their quality of life, and enhance their overall healthcare and well-being.
+
+## Hosting
+Our WebApp Hosted on Netlify-https://courageous-palmier-ec206d.netlify.app/
+
 ## Demo
 
 Youtube link: https://www.youtube.com/watch?v=6p0oHkE6j1E
@@ -62,6 +66,4 @@ streamlit run app.py
 ```
 2. Use the interface to interact with the Naive Bayes classifier.
 
-## Hosting
-Our WebApp Hosted on Netlify-https://courageous-palmier-ec206d.netlify.app/
 
