@@ -47,5 +47,7 @@ export LOCATION='your-location'
 streamlit run app.py
 ```
 2. Use the interface to interact with the Naive Bayes classifier.
-** hosting 
+
+## Hosting
+Our WebApp Hosted on Netlify-https://courageous-palmier-ec206d.netlify.app/
 
