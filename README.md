@@ -69,6 +69,7 @@ streamlit run app.py
 # Built By
 - Royal
 - Prathviraj Holla
+- Shashank Devadiga
 - Shashwath Pai
 - Vighnesh Prabhu   
 
