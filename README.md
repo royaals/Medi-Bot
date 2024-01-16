@@ -65,11 +65,5 @@ streamlit run app.py
 ```
 2. Use the interface to interact with the Naive Bayes classifier.
 
-# Built By
-- Royal
-- Prathviraj Holla
-- Shashank Devadiga
-- Shashwath Pai
-- Vighnesh Prabhu   
 
 
