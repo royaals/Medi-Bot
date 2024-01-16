@@ -11,8 +11,7 @@ The services offered by our platform cater specifically to the needs of elderly 
 
 These services are designed to empower seniors, improve their quality of life, and enhance their overall healthcare and well-being.
 
-## Hosting
-Hosted Link- https://royaals.github.io/med-advisor/
+
 
 ## Demo
 
